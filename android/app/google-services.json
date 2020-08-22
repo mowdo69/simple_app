@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301598828781",
+    "firebase_url": "https://simpleapp-d9ada.firebaseio.com",
+    "project_id": "simpleapp-d9ada",
+    "storage_bucket": "simpleapp-d9ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301598828781:android:9dfba82f88bb3aefea84e4",
+        "android_client_info": {
+          "package_name": "com.example.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301598828781-e83b9p55r8qjp7e17sk1b2s464d7thlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simpleapp",
+            "certificate_hash": "82a08edd97eac8df65715808537b8ffa8f984b52"
+          }
+        },
+        {
+          "client_id": "301598828781-n0342v5b5tmr45dv7rm665m4k9qa0g4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9RZTE7MJjxx8KTmG56Z1qBl7tRn6a0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301598828781-n0342v5b5tmr45dv7rm665m4k9qa0g4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
