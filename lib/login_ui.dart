@@ -21,7 +21,7 @@ class _loginState extends State<login> {
             child: Column(
               children: <Widget>[
                 Container(
-                  child: Padding(
+                  child: Padding(seatchBar
                     padding: const EdgeInsets.all(8.0),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
